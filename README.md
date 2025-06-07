@@ -38,3 +38,6 @@ INSERT INTO ItemVenda (idItemVenda, idVenda, idProduto, valorUnitario, quantidad
     (3, 3, 3, 20.00, 4),
     (4, 4, 2, 2.00, 40),
     (5, 2, 3, 4.00, 20);
+
+-- https://1drv.ms/x/c/4a19299dbc5baa0f/EQ-qW7ydKRkggEpmBwAAAAABlRLpk3RaaQh9UpKbG2R8Ng?e=EvB3bf
+-- Link da planilha com os dados
